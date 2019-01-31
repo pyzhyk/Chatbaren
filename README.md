@@ -35,10 +35,12 @@
 
 
  [![Console Screenshot 1](https://github.com/mrlibertarian/Chatbaren/blob/master/Images/Screenshot-1.png)](https://github.com/mrlibertarian/Chatbaren/blob/master/Images/Screenshot-1.png)
-`chatbaren -c address.onion`
+
+`chatbaren -c address.onion` (Typing window)
 
 [![Console Screenshot 2](https://github.com/mrlibertarian/Chatbaren/blob/master/Images/Screenshot-2.png)](https://github.com/mrlibertarian/Chatbaren/blob/master/Images/Screenshot-1.png)
-`chatbaren -a`
+
+`chatbaren -a` (Watching window)
 
  ##### Happy chatting!
 
