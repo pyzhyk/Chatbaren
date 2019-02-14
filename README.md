@@ -88,6 +88,6 @@
 
 ## Donation
 
-[![Bitcoin QR-code](https://github.com/mrlibertarian/Chatbaren/blob/master/Images/Bitcoin-QR.png)](bitcoin:15EmrTsRjFuuiRgohSPKqDjjAXdisWULbs)
+[![Bitcoin QR-code](Images/Bitcoin-QR.png)](bitcoin:15EmrTsRjFuuiRgohSPKqDjjAXdisWULbs)
 
 **BTC 15EmrTsRjFuuiRgohSPKqDjjAXdisWULbs**
