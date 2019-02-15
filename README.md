@@ -22,6 +22,8 @@
 
 ### Setup
 
+- Clone Chatbaren repository: `git clone https://github.com/mrlibertarian/Chatbaren`
+- Change directory: `cd Chatbaren`
 - Create a symlink to Chatbaren script: `ln -s /path/to/Chatbaren/chatbaren /usr/bin/chatbaren`
 - Set Chatbaren folder location: edit `chatbaren` and set `chatbaren_prefix` to `/path/to/Chatbaren`
 - Generate your keypair: `chatbaren -g`
