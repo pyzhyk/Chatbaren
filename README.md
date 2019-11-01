@@ -1,11 +1,11 @@
-# [Chatbaren](https://github.com/mrlibertarian/Chatbaren)
+# [Chatbaren](https://github.com/pyzhyk/Chatbaren)
 
 [![License](https://img.shields.io/badge/license-GPL-yellow.svg)][license]
 ![Platform](https://img.shields.io/badge/platform-Linux-blue.svg)
 [![Version](https://img.shields.io/badge/version-console-brightgreen.svg)][console-version]
 
 [license]: https://www.gnu.org/licenses/gpl.html
-[console-version]: https://github.com/mrlibertarian/Chatbaren
+[console-version]: https://github.com/pyzhyk/Chatbaren
 
 ## Secure, open-source, peer-to-peer, end-to-end encrypted [Tor](https://torproject.org/) messaging system for Linux.
 
@@ -18,11 +18,11 @@
 - [Ncat](https://nmap.org/ncat/)
 - Shred
 
-#### To install them, run: `apt install openssl tor shred ncat`
+#### To install them, run: `apt install openssl tor ncat -y; apt install shred -y`
 
 ### Setup
 
-- Clone Chatbaren repository: `git clone https://github.com/mrlibertarian/Chatbaren`
+- Clone Chatbaren repository: `git clone https://github.com/pyzhyk/Chatbaren`
 - Change directory: `cd Chatbaren`
 - Create a symlink to Chatbaren script: `ln -s /path/to/Chatbaren/chatbaren /usr/bin/chatbaren`
 - Set Chatbaren folder location: edit `chatbaren` and set `chatbaren_prefix` to `/path/to/Chatbaren`
@@ -36,17 +36,17 @@
  ###### It may take some time to start [Tor hidden service](https://www.torproject.org/docs/onion-services) for a first time.
 
 
- [![Console Screenshot 1](https://github.com/mrlibertarian/Chatbaren/blob/master/Images/Screenshot-1.png)](https://github.com/mrlibertarian/Chatbaren/blob/master/Images/Screenshot-1.png)
+ [![Console Screenshot 1](https://github.com/pyzhyk/Chatbaren/blob/master/Images/Screenshot-1.png)](https://github.com/pyzhyk/Chatbaren/blob/master/Images/Screenshot-1.png)
 
 `chatbaren -c address.onion` (Typing window)
 
-[![Console Screenshot 2](https://github.com/mrlibertarian/Chatbaren/blob/master/Images/Screenshot-2.png)](https://github.com/mrlibertarian/Chatbaren/blob/master/Images/Screenshot-1.png)
+[![Console Screenshot 2](https://github.com/pyzhyk/Chatbaren/blob/master/Images/Screenshot-2.png)](https://github.com/pyzhyk/Chatbaren/blob/master/Images/Screenshot-1.png)
 
 `chatbaren -a` (Watching window)
 
  ##### Happy chatting!
 
-### Qt version: [Chatbaren-Qt](https://github.com/mrlibertarian/Chatbaren-Qt)
+### Qt version: [Chatbaren-Qt](https://github.com/pyzhyk/Chatbaren-Qt)
 
 
 ### Chat options
