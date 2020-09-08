@@ -87,9 +87,3 @@
 ### Log files
 - `tor/notices.log` - Tor service notices log.
 - `tor/debug.log` - Tor service debug log. It is turned off by default.
-
-## Donation
-
-[![Bitcoin QR-code](Images/Bitcoin-QR.png)](bitcoin:15EmrTsRjFuuiRgohSPKqDjjAXdisWULbs)
-
-**BTC 15EmrTsRjFuuiRgohSPKqDjjAXdisWULbs**
