@@ -87,3 +87,6 @@
 ### Log files
 - `tor/notices.log` - Tor service notices log.
 - `tor/debug.log` - Tor service debug log. It is turned off by default.
+
+## Donate
+[donate.pyzhyk.org](https://donate.pyzhyk.org)
