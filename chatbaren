@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #chatbaren_prefix=$(dirname $(echo $0))
-chatbaren_prefix="/tmp/Chatbaren-Qt"   # custom path
+chatbaren_prefix="/tmp/Chatbaren"   # custom path
 
 username="[$(cat $chatbaren_prefix/username.txt)]"
 separator=" "
