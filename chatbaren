@@ -37,7 +37,7 @@ if [[ $1 = '-h' ]] || [[ $1 = '--help' ]] || [ -z $1 ]; then
 	echo '[*] -m address.onion msg username		Send one message to recipient. Localhost send disabled.'
 	echo '[*] -d sums address.onion			Get address.onion key hashes.'
 	echo '[*] -d sums self				Get your key hashes.'
-	echo '[*] -d address				Get your key hashes.'
+	echo '[*] -d address				Get your address.'
 	echo '[*] -d prefix				Get chatbaren_prefix.'
 	echo '[*] -d pubkey				Get your public key.'
 	echo '[*] -d username				Get your username.'
@@ -54,7 +54,7 @@ if [[ $1 = '-h' ]] || [[ $1 = '--help' ]] || [ -z $1 ]; then
 	exit 0
 fi
 
-chmod 400 $chatbaren_prefix/tor/
+chmod 700 $chatbaren_prefix/tor/
 
 if ! [ -s "$chatbaren_prefix/keys/self/self.key" ] && ! [ -s "$chatbaren_prefix/keys/self/self.pub" ] ; then
 	echo '[-] No keypair. Generating new [4096 bit]...'
