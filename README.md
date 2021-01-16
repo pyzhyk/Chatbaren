@@ -69,7 +69,7 @@
 - `-m address.onion msg username` - Send one message to recipient. Localhost sending disabled.
 - `-d sums address.onion` - Get address.onion key hashes.
 - `-d sums self` - Get your key hashes.
-- `-d address` - Get your key hashes.
+- `-d address` - Get your address.
 - `-d prefix` - Get chatbaren_prefix.
 - `-d pubkey` - Get your public key.
 - `-d username` - Get your username.
@@ -89,4 +89,6 @@
 - `tor/debug.log` - Tor service debug log. It is turned off by default.
 
 ## Donate
-[donate.pyzhyk.org](https://donate.pyzhyk.org)
+![](https://pyzhyk.org/img/14s7eocgkPRXxbwMrjykmpkZixWDu5rGiY-256.png)
+
+BTC [14s7eocgkPRXxbwMrjykmpkZixWDu5rGiY](bitcoin:14s7eocgkPRXxbwMrjykmpkZixWDu5rGiY)
